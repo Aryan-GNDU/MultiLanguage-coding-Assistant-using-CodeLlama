@@ -1,4 +1,4 @@
-# MultiLanguage-coding-Assistant-using-CodeLlama
+
 <div align="center">
   <h1>🤖 Coder Katoch</h1>
   <p><i>Your personal AI coding companion powered by Ollama</i></p>
