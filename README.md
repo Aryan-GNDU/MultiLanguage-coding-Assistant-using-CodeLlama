@@ -71,15 +71,8 @@ The custom "coder_katoch" model is built on CodeLlama with:
 - Custom system prompt for coding assistance
 - Optimized for programming knowledge and explanations
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/coder-katoch/issues).
 
-## 📜 License
-
-This project is [MIT](LICENSE) licensed.
-
----
 
 <div align="center">
   <p>Created with ❤️ by Aryan Katoch</p>
